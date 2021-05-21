@@ -3,7 +3,7 @@
 😄 I am a Software Developer that enjoys logical challenges and creative projects. <br>
 🔭 I always look forward to learning new skills and technologies.
 
-I have been coding since 2014 with Python, Java, C++, SQL, R, Elixir, HTML, CSS, Javascript....all that good stuff; with around 5 years of Java, Python and SQL development. 💯
+I have been coding since 2014 using Python, Java, C++, SQL, R, Elixir, HTML, CSS, Javascript....all that good stuff; with around 5 years of Java, Python and SQL development. 💯
 
 Java Snippet: https://github.com/KKatkar/Coding-challenge-practise/blob/main/Java/Rotated_List_Search.txt <br><br>
 Python Snippet: https://github.com/KKatkar/Coding-challenge-practise/blob/main/Python/N-Queens_Problem.txt <br><br>
