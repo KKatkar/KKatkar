@@ -5,8 +5,9 @@
 
 I have been coding since 2014 using Python, Java, C++, SQL, R, Elixir, HTML, CSS, Javascript....all that good stuff; with around 5 years of Java, Python and SQL development. 💯
 
-Java Snippet: https://github.com/KKatkar/Coding-challenge-practise/blob/main/Java/Generate_Parenthesis.txt <br><br>
-Python Snippet: https://github.com/KKatkar/Coding-challenge-practise/blob/main/Python/N-Queens_Problem.txt <br><br>
+Java Snippet: [P2P File Sharing Application](https://github.com/KKatkar/P2P-File-Sharing/blob/master/src/Process/SendMessage.java) <br><br>
+Python Snippet: [Discord Stock Bot](https://github.com/KKatkar/StockBot-discord-code/blob/main/bot.py) <br><br>
+JavaScript Snippet: [Restaurant and market health data analysis](https://github.com/KKatkar/Restaurant-and-market-health-data-analytics/blob/master/web-app/services/database.js) <br><br>
 SQL snippet:https://github.com/KKatkar/Restaurant-and-market-health-data-analytics/blob/a995f6a7a191eaff621e0227dee8c16c6ab6436a/web-app/db_apis/avg_owner_violation_graph.js#L18-L118
 
 <!--
