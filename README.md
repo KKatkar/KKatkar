@@ -3,7 +3,7 @@
 😄 I am a Software Developer that enjoys logical challenges and creative projects. <br>
 🔭 I always look forward to learning new skills and technologies.
 
-I have been coding since 2014 using Python, Java, C++, SQL, R, Elixir, HTML, CSS, Javascript....all that good stuff; with around 5 years of Java, Python and SQL development. 💯
+I have been coding since 2014 using Python, Java, C++, SQL, R, Elixir, HTML, CSS, Javascript....all that good stuff; with around 8 years of Java, Python and SQL development. 💯
 
 Java Snippet: [P2P File Sharing Application](https://github.com/KKatkar/P2P-File-Sharing/blob/master/src/Process/SendMessage.java) <br><br>
 Python Snippet: [Discord Stock Bot](https://github.com/KKatkar/StockBot-discord-code/blob/main/bot.py) <br><br>
